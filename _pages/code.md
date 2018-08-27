@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /codes/
-title: codes
+permalink: /code/
+title: code
 description: Feel free to use and modify any of the material below, as well as reach out if you have questions!
 ---
 
