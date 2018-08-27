@@ -12,4 +12,4 @@ In spring 2015, Eiren Jacobson and I developed and taught a graduate-level intro
 
 #### [merging grain size distributions](https://github.com/JessCG/MS3){:target="\_blank"}
 
-One of my first experience with sharing code was during my Master's degree when I modified a Matlab code developed by John Newgard to be compatible with both Windows and Mac operating systems. The [code](https://github.com/JessCG/MS3){:target="\_blank"} is still downloaded by various users to merge grain size distributions obtained with a Beckman Coulter Multisizer 3.
+One of my first experiences with sharing code was during my Master's degree when I modified a Matlab code developed by John Newgard to be compatible with both Windows and Mac operating systems. The [code](https://github.com/JessCG/MS3){:target="\_blank"} is still downloaded by various users to merge grain size distributions obtained with a Beckman Coulter Multisizer 3.
