@@ -1,23 +1,23 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong> Jessica </strong> C. Garwood
+description: PhD Student, Scripps Institution of Oceanography<br> jgarwood at ucsd dot edu
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true
+
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am best described as an outdoorsy nerd. I enjoy field work and climbing, as well as puzzles, quantitative problems, and models. My research interests focus on physical-biological interactions, especially their implications for transport of plankton or sediment. To look into internal wave transport, I deployed a swarm of planktonic robots, [the Mini-Autonomous Underwater Explorers](http://jaffeweb.ucsd.edu/research-projects/autonomous-underwater-explorers/){:target="\_blank"}, built by the Jaffe Laboratory for Underwater Imaging, and supplemented their measurements with models. Stay tuned for upcoming [publications](/al-folio/publications/)!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before starting at SIO, I completed a BSc and MSc at Dalhousie University in Halifax, Canada. Some of my work investigated how biofilms influence sediment erosion on intertidal flats in the Bay of Fundy. With 10-m tides, we had to time it right!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am very passionate about making programming, math, and science more useful and enjoyable for everyone. Feel free to use any of the [codes](/al-folio/codes/) I developed and reach out to me if you have questions. Among others, you will find introductory material to R for oceanographers, from a class I taught with [Eiren Jacobson](https://eirenjacobson.github.io/){:target="\_blank"}, as well as outreach activities to learn programming and analyze wave data for a project with the [Ocean Discovery Institute](http://oceandiscoveryinstitute.org/){:target="\_blank"}.
+
+Beside time spent on my PhD and outreach, I dedicate a few hours working at my campus climbing gym, the [Outback Climbing Center](https://recreation.ucsd.edu/adventures/climbing-center/){:target="\_blank"}, as well as volunteering with the [Banff Centre Mountain Film + Book Festival](https://www.banffcentre.ca/banff-mountain-film-book-festival){:target="\_blank"}. I am community-oriented, enjoy introducing people to my passions, and have lots of energy!
