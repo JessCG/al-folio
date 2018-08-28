@@ -27,7 +27,7 @@ Advisor: Paul S. Hill
 Alexander Graham Bell Canada Graduate Scholarship - PhD & MSc <br>
 Canada Governor General's Academic Medal - Gold & Bronze <br>
 NSERC Undergraduate Summer Research Grant - 2009, 2010, 2011 <br>
-Chancellor's Scholarship, Dalhousie University, BSc <br>
+Chancellor's Scholarship, Dalhousie University - BSc <br>
 Provincial Millenium Excellence Award - BSc <br>
 United World College of the Adriatic - IB <br>
 
