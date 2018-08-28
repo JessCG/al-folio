@@ -13,35 +13,35 @@ social: true
 
 #### Education
 
-PhD Student, Scripps Institution of Oceanography, Present
+PhD Student, Scripps Institution of Oceanography, Present <br>
 Advisor: Peter J. S. Franks
 
-MSc, Dalhousie University, 2013
+MSc, Dalhousie University, 2013 <br>
 Advisor: Paul S. Hill
 
-BSc, First Class Honours, Dalhousie University, 2011
+BSc, First Class Honours, Dalhousie University, 2011 <br>
 Advisor: Paul S. Hill
 
 
 #### Awards
-Alexander Graham Bell Canada Graduate Scholarship, PhD & MSc
-Canada Governor General's Academic Medal, Gold & Bronze
-NSERC Undergraduate Summer Research Grant, 2009, 2010, 2011
-Chancellor's Scholarship, Dalhousie University, BSc
-Provincial Millenium Excellence Award, BSc
-United World College of the Adriatic, IB
+Alexander Graham Bell Canada Graduate Scholarship, PhD & MSc <br>
+Canada Governor General's Academic Medal, Gold & Bronze <br>
+NSERC Undergraduate Summer Research Grant, 2009, 2010, 2011 <br>
+Chancellor's Scholarship, Dalhousie University, BSc <br>
+Provincial Millenium Excellence Award, BSc <br>
+United World College of the Adriatic, IB <br>
 
 
 #### Conferences
 
 
 #### Teaching
-Introduction to R for Oceanographers - UCSD, instructor
-Introduction to Biological Oceanography - UCSD, TA
-The Last Billion Years - Dalhousie University, TA
-The Blue Planet - Dalhousie University, TA
-Perspectives on Ocean Sciences - UCSD, guest lecturer
-Physical-Biological Interactions - UCSD, guest lecturer
+Introduction to R for Oceanographers - UCSD, instructor <br>
+Introduction to Biological Oceanography - UCSD, TA <br>
+The Last Billion Years - Dalhousie University, TA <br>
+The Blue Planet - Dalhousie University, TA <br>
+Perspectives on Ocean Sciences - UCSD, guest lecturer <br>
+Physical-Biological Interactions - UCSD, guest lecturer <br>
 
 
 #### Outreach and service
