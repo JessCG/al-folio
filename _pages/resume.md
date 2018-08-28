@@ -10,7 +10,6 @@ profile:
 
 social: true
 ---
-
 #### Education
 
 PhD Student, Scripps Institution of Oceanography - Present <br>
@@ -44,6 +43,6 @@ Perspectives on Ocean Sciences, UCSD - guest lecturer <br>
 Physical-Biological Interactions, UCSD - guest lecturer <br>
 
 
-#### Outreach and service
+#### Outreach & Service
 SIO Diversity Advisory Committee - 2017 to present <br>
 Year-long research projects for low income students, ODI - 2016 to 2018
