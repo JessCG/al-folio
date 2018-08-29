@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /resume/
 title: resume
 description: Highlights online, full version for download
@@ -10,9 +10,13 @@ profile:
 
 social: true
 ---
-### Education
 
-PhD Candidate, Scripps Institution of Oceanography - Present <br>
+<img class="col one last" src="{{ site.baseurl }}/assets/img/field_pic.jpg" style="float:right">
+
+### Education 
+
+
+PhD Candidate, Scripps Institution of Oceanography - Present  
 Advisors: Peter J. S. Franks, Drew J. Lucas
 
 MSc, Dalhousie University - 2013 <br>
@@ -22,6 +26,7 @@ BSc, First Class Honours, Dalhousie University - 2011 <br>
 Advisor: Paul S. Hill
 
 <p style="text-align:center"> <a class="page-link" href="{{ '/resume/Resume_JCG_Aug2018.pdf' | prepend: site.baseurl | prepend: site.url }}"> Download full resume </a> </p>
+
 
 ### Awards
 Alexander Graham Bell Canada Graduate Scholarship - PhD & MSc <br>
