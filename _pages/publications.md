@@ -4,6 +4,8 @@ permalink: /publications/
 title: publications
 description: My current publications are based on my Master's work - stay tuned for more!
 ---
+Find me on [Google Scholar](https://scholar.google.com/citations?user=gpnMH2sAAAAJ){:target="\_blank"}!
+
 #### 2015
 
 **Garwood, J.C.**, Hill, P.S., MacIntyre, H.L. and Law, B.A., 2015. Grain sizes retained by diatom biofilms during erosion on tidal flats linked to bed sediment texture. *Continental Shelf Research*, 104, 37-44.
