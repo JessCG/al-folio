@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /resume/
 title: resume
 description: Download full resume
