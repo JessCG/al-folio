@@ -6,12 +6,12 @@ description: My current publications are based on my Master's work - stay tuned 
 ---
 #### 2015
 
-**Garwood**, J.C., Hill, P.S., MacIntyre, H.L. and Law, B.A., 2015. Grain sizes retained by diatom biofilms during erosion on tidal flats linked to bed sediment texture. *Continental Shelf Research*, 104, 37-44.
+**Garwood, J.C.**, Hill, P.S., MacIntyre, H.L. and Law, B.A., 2015. Grain sizes retained by diatom biofilms during erosion on tidal flats linked to bed sediment texture. *Continental Shelf Research*, 104, 37-44.
 
 #### 2014
 
-**Carrière-Garwood**, J., 2014. Seasonal variation and biological effects on mudflat erodibility in the Minas Basin, Bay of Fundy. *Master's Thesis*, Dalhousie University, Halifax, Canada.
+**Carrière-Garwood, J.**, 2014. Seasonal variation and biological effects on mudflat erodibility in the Minas Basin, Bay of Fundy. *Master's Thesis*, Dalhousie University, Halifax, Canada.
 
 #### 2013
 
-**Garwood**, J.C., Hill, P.S. and Law, B.A., 2013. Biofilms and size sorting of fine sediment during erosion in intertidal sands. *Estuaries and Coasts*, 36(5), 1024-1036.
+**Garwood, J.C.**, Hill, P.S. and Law, B.A., 2013. Biofilms and size sorting of fine sediment during erosion in intertidal sands. *Estuaries and Coasts*, 36(5), 1024-1036.
