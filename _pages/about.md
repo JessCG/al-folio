@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong> Jessica </strong> C. Garwood
-description: PhD Student, Scripps Institution of Oceanography<br> jgarwood at ucsd dot edu
+description: PhD Student, Scripps Institution of Oceanography <br> jgarwood at ucsd dot edu
 
 profile:
   align: right

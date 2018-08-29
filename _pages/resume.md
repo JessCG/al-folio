@@ -2,10 +2,10 @@
 layout: about
 permalink: /resume/
 title: resume
-description: Download full resume
+description: Highlights online, full version for download
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
 
 social: true
@@ -13,13 +13,15 @@ social: true
 #### Education
 
 PhD Student, Scripps Institution of Oceanography - Present <br>
-Advisor: Peter J. S. Franks
+Advisors: Peter J. S. Franks, Drew J. Lucas
 
 MSc, Dalhousie University - 2013 <br>
 Advisor: Paul S. Hill
 
 BSc, First Class Honours, Dalhousie University - 2011 <br>
 Advisor: Paul S. Hill
+
+<a class="page-link" href="{{ '/resume/Resume_JCG_Aug2018.pdf' | prepend: site.baseurl | prepend: site.url }}">Download full resume</a>
 
 
 #### Awards
@@ -31,8 +33,15 @@ Provincial Millenium Excellence Award - BSc <br>
 United World College of the Adriatic, Full scholarship - IB <br>
 
 
-#### Conferences
+#### Recent conferences
+*Garwood, J.C.*, Franks, P.J.S., Naughton, P., Roberts, P.L.D., Lucas, A., Jaffe, J.S. 2018. A ratchet to shore: transport of quasi-Lagrangian plankton mimics by nonlinear internal waves.
+Ocean Sciences Meeting, oral presentation.
 
+*Garwood, J.C.*, Musgrave, R.C., Franks, P.J.S. 2016. Modeling plankton aggregation and transport by nonlinear internal waves propagating onshore.
+Ocean Sciences Meeting, poster presentation.
+
+*Garwood, J.C.*, Devitt, K., Cox, R., and Hill, P.S. 2014. Comparison of biofilm effects on sediment erosion at two intertidal sites with distinct surface sediment grain size.
+Ocean Sciences Meeting, poster presentation.
 
 #### Teaching
 Introduction to R for Oceanographers, UCSD - instructor <br>
