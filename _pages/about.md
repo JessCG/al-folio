@@ -1,4 +1,4 @@
- in---
+---
 layout: about
 permalink: /
 title: <strong> Jessica </strong> C. Garwood
