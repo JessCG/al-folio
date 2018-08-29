@@ -12,7 +12,7 @@ social: true
 ---
 ### Education
 
-PhD Student, Scripps Institution of Oceanography - Present <br>
+PhD Candidate, Scripps Institution of Oceanography - Present <br>
 Advisors: Peter J. S. Franks, Drew J. Lucas
 
 MSc, Dalhousie University - 2013 <br>
