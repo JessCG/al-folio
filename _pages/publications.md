@@ -2,9 +2,15 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My current publications are based on my Master's work - stay tuned for more!
+description: My current publications are based on my Master's work - stay tuned for more.
 ---
-Find me on [Google Scholar](https://scholar.google.com/citations?user=gpnMH2sAAAAJ){:target="\_blank"}!
+
+Find me on [Google Scholar](https://scholar.google.com/citations?user=gpnMH2sAAAAJ){:target="\_blank"}
+{: style="text-align: center;"}
+
+#### *in preparation*
+
+Franks, P.J.S. *et al.* Stokes drift of plankton in linear internal waves: Cross-shore transport of neutrally buoyant and depth-keeping organisms
 
 #### 2015
 
