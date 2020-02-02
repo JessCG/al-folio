@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My current publications are based on my Master's work - stay tuned for more.
+description: 
 ---
 
 Find me on [Google Scholar](https://scholar.google.com/citations?user=gpnMH2sAAAAJ){:target="\_blank"}
