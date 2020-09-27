@@ -25,7 +25,7 @@ Advisor: Paul S. Hill
 BSc, First Class Honours, Dalhousie University - 2011 <br>
 Advisor: Paul S. Hill
 
-<p style="text-align:center"> <a class="page-link" href="{{ '/resume/CV_Garwood_Oct2020.pdf' | prepend: site.baseurl | prepend: site.url }}"> Download full resume </a> </p>
+<p style="text-align:center"> <a class="page-link" href="{{ '/resume/CV_Garwood_Oct2020.pdf' | prepend: site.baseurl | prepend: site.url }}"> Download complete CV </a> </p>
 
 
 ### Awards
@@ -37,16 +37,6 @@ Provincial Millenium Excellence Award - BSc <br>
 United World College of the Adriatic, Full scholarship - IB <br>
 
 
-### Conferences
-**Garwood, J.C.**, Franks, P.J.S., Naughton, P., Roberts, P.L.D., Lucas, A., Jaffe, J.S. 2018. A ratchet to shore: transport of quasi-Lagrangian plankton mimics by nonlinear internal waves.
-*Ocean Sciences Meeting, oral presentation.*
-
-**Garwood, J.C.**, Musgrave, R.C., Franks, P.J.S. 2016. Modeling plankton aggregation and transport by nonlinear internal waves propagating onshore.
-*Ocean Sciences Meeting, poster presentation.*
-
-**Garwood, J.C.**, Devitt, K., Cox, R., and Hill, P.S. 2014. Comparison of biofilm effects on sediment erosion at two intertidal sites with distinct surface sediment grain size.
-*Ocean Sciences Meeting, poster presentation.*
-
 ### Teaching
 Introduction to R for Oceanographers, UCSD - instructor <br>
 Introduction to Biological Oceanography, UCSD - TA <br>
@@ -54,8 +44,10 @@ The Last Billion Years, Dalhousie University - TA <br>
 The Blue Planet, Dalhousie University - TA <br>
 Perspectives on Ocean Sciences, UCSD - guest lecturer <br>
 Physical-Biological Interactions, UCSD - guest lecturer <br>
+Biophysical interactions: from barnacles to jellyfish, Rutgers - guest lecturer <br>
 
 
 ### Outreach & Service
-SIO Diversity Advisory Committee - 2017 to present <br>
-Year-long research projects for low income students, ODI - 2016 to 2018
+[United World Challenge](https://unitedworldchallenge.org/){:target="\_blank"} - 2020 <br>
+SIO Diversity Advisory Committee - 2017-2019 <br>
+Year-long research projects for low income students, ODI - 2016-2018
