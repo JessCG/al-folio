@@ -44,7 +44,7 @@ The Last Billion Years, Dalhousie University - TA <br>
 The Blue Planet, Dalhousie University - TA <br>
 Perspectives on Ocean Sciences, UCSD - guest lecturer <br>
 Physical-Biological Interactions, UCSD - guest lecturer <br>
-Biophysical interactions: from barnacles to jellyfish, Rutgers - guest lecturer <br>
+Biophysical interactions: from barnacles to jellyfish, Rutgers University - guest lecturer <br>
 
 
 ### Outreach & Service
