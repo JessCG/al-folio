@@ -42,9 +42,9 @@ Introduction to R for Oceanographers, UCSD - instructor <br>
 Introduction to Biological Oceanography, UCSD - TA <br>
 The Last Billion Years, Dalhousie University - TA <br>
 The Blue Planet, Dalhousie University - TA <br>
+Biophysical interactions: from barnacles to jellyfish, Rutgers University - guest lecturer <br>
 Perspectives on Ocean Sciences, UCSD - guest lecturer <br>
 Physical-Biological Interactions, UCSD - guest lecturer <br>
-Biophysical interactions: from barnacles to jellyfish, Rutgers University - guest lecturer <br>
 
 
 ### Outreach & Service
