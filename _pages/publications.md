@@ -18,7 +18,7 @@ Find me on [Google Scholar](https://scholar.google.com/citations?user=gpnMH2sAAA
 
 #### 2020
 
-**Garwood, J.C.**, A.J. Lucas, P. Naughton, P.L.D. Roberts, M.A. Alford, P.L.D. Roberts, J.S. Jaffe, L. deGelleke and P.J.S. Franks. 2020. A novel cross‐shore transport mechanism revealed by subsurface, robotic larval mimics: Internal wave deformation of the background velocity field. *Limnology & Oceanography*, 65(7): 1456-1470.
+**Garwood, J.C.**, A.J. Lucas, P. Naughton, M.A. Alford, P.L.D. Roberts, J.S. Jaffe, L. deGelleke and P.J.S. Franks. 2020. A novel cross‐shore transport mechanism revealed by subsurface, robotic larval mimics: Internal wave deformation of the background velocity field. *Limnology & Oceanography*, 65(7): 1456-1470.
 
 Franks, P.J.S., **J.C. Garwood**, J. Cortes, R.C. Musgrave and A.J. Lucas, 2020. Stokes drift of plankton in linear internal waves: Cross-shore transport of neutrally buoyant and depth-keeping organisms. *Limnology & Oceanography*. 65(6): 1286-1296.
 
