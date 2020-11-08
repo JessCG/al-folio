@@ -5,14 +5,14 @@ title: publications
 description: 
 ---
 
-Find me on [Google Scholar](https://scholar.google.com/citations?user=gpnMH2sAAAAJ){:target="\_blank"}
+Find me on [Google Scholar](https://scholar.google.com/citations?user=C5gj9gsAAAAJ){:target="\_blank"}
 {: style="text-align: center;"}
 
-#### *In prep.*
+#### *Upcoming*
 
-**Garwood, J.C.**, R.C. Musgrave, A.J. Lucas and P.J.S Franks. Life in Internal Waves. 
+**Garwood, J.C.**, R.C. Musgrave, and A.J. Lucas. Life in Internal Waves. *Under review*. 
 
-#### *Accepted*
+#### *In press*
 
 **Garwood, J.C.**, A.J. Lucas, P. Naughton, P.L.D. Roberts, J.S. Jaffe, L. deGelleke and P.J.S. Franks. 2020. Larval cross-shore transport estimated from internal waves with a mean flow: the effects of larval vertical position and depth regulation. *Limnology & Oceanography*.
 
