@@ -14,7 +14,7 @@ Find me on [Google Scholar](https://scholar.google.com/citations?user=C5gj9gsAAA
 
 #### In press
 
-**Garwood, J.C.**, A.J. Lucas, P. Naughton, P.L.D. Roberts, J.S. Jaffe, L. deGelleke and P.J.S. Franks. 2020. Larval cross-shore transport estimated from internal waves with a mean flow: the effects of larval vertical position and depth regulation. *Limnology & Oceanography*.
+**Garwood, J.C.**, A.J. Lucas, P. Naughton, P.L.D. Roberts, J.S. Jaffe, L. deGelleke and P.J.S. Franks. 2020. Larval cross-shore transport estimated from internal waves with a mean flow: The effects of larval vertical position and depth regulation. *Limnology & Oceanography*.
 
 #### 2020
 
