@@ -10,11 +10,11 @@ Find me on [Google Scholar](https://scholar.google.com/citations?user=C5gj9gsAAA
 
 
 #### In press
-**Garwood, J.C.**, R.C. Musgrave, and A.J. Lucas. *In press*. Life in Internal Waves. *Oceanography*.
 
 **Garwood, J.C.**, A.J. Lucas, P. Naughton, P.L.D. Roberts, J.S. Jaffe, L. deGelleke and P.J.S. Franks. *Early view*. Larval cross-shore transport estimated from internal waves with a mean flow: The effects of larval vertical position and depth regulation. *Limnology & Oceanography*.
 
 #### 2020
+**Garwood, J.C.**, R.C. Musgrave, and A.J. Lucas. 2020. Life in Internal Waves. *Oceanography*, 33(3): 38-49.
 
 **Garwood, J.C.**, A.J. Lucas, P. Naughton, M.A. Alford, P.L.D. Roberts, J.S. Jaffe, L. deGelleke and P.J.S. Franks. 2020. A novel cross‐shore transport mechanism revealed by subsurface, robotic larval mimics: Internal wave deformation of the background velocity field. *Limnology & Oceanography*, 65(7): 1456-1470.
 
