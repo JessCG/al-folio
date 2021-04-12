@@ -4,6 +4,8 @@ permalink: /code/
 title: code
 description: Feel free to use and modify any of the material below, as well as reach out if you have questions!
 ---
+#### [United World Challenge](https://github.com/JessCG/OceanClassroom){:target="\_blank"}
+When my friend Tez asked for support with his project to row solo from San Francisco to Hawaii to raise funds for scholarships at the United World Colleges, I knew I was in. With the pandemic in full swing, Tez would be the most isolated of us all. Check out reports of his [adventure](https://unitedworldchallenge.org/){:target="\_blank"} - he raised more than $76,000! While Tez rowed, I created introductory programming [activities](https://github.com/JessCG/OceanClassroom){:target="\_blank"} from the comfort of my couch. To synch with his odyssey, I used publicly available data collected near the locations where he rowed. These activities are suitable for remote learning.
 
 #### [research project with middle and high school students](https://github.com/JessCG/Outreach_CodingAndWaves){:target="\_blank"}
 Every year, San Diego’s [Ocean Discovery Institute](http://oceandiscoveryinstitute.org/){:target="\_blank"} partners with one local ocean scientist to develop a year-long research project for a group of low income, middle school students. Inspired by a [*Wired* article](https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/){:target="\_blank"}, I decided to center our project on coding so the students could develop additional hireable skills. The [10+ coding activities](https://github.com/JessCG/Outreach_CodingAndWaves){:target="\_blank"} in R can be used to introduce programming, mathematical concepts, Cartesian coordinates, as well as ocean data analysis using waves generated in a tank. If you are not familiar with GitHub, start with the ReadMe. 
@@ -16,3 +18,5 @@ In spring 2015, Eiren Jacobson and I developed and taught a graduate-level intro
 #### [merging grain size distributions](https://github.com/JessCG/MS3){:target="\_blank"}
 
 One of my first experiences with sharing code was during my Master's degree when I modified a Matlab code developed by John Newgard to be an easily downloaded and set up package, compatible with both Windows and Mac operating systems. The [code](https://github.com/JessCG/MS3){:target="\_blank"} is still downloaded by various users to merge grain size distributions obtained with a Beckman Coulter Multisizer 3.
+
+
