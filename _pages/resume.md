@@ -25,7 +25,7 @@ Advisor: Paul S. Hill
 BSc, First Class Honours, Dalhousie University - 2011 <br>
 Advisor: Paul S. Hill
 
-<p style="text-align:center"> <a class="page-link" href="{{ '/resume/CV_Garwood_April2021.pdf' | prepend: site.baseurl | prepend: site.url }}"> Download complete CV </a> </p>
+<p style="text-align:center"> <a class="page-link" href="{{ '/resume/CV_Garwood_June2021.pdf' | prepend: site.baseurl | prepend: site.url }}"> Download complete CV </a> </p>
 
 
 ### Awards

@@ -8,6 +8,10 @@ description:
 Find me on [Google Scholar](https://scholar.google.com/citations?user=C5gj9gsAAAAJ){:target="\_blank"}
 {: style="text-align: center;"}
 
+#### In preparation
+McCormick, L.R., S. Gangrade, **J.C. Garwood**, N.W. Oesch, and L.A. Levin. Defining a visual luminoxyscape to describe oxygen and irradiance constraints on larval habitat in a changing ocean. *Submitted.*
+
+**Garwood, J.C.**, H.L. Fuchs, G.P. Gerbi, E.J. Hunter, and R.J. Chant. Estuarine larval retention enhanced by tuning into turbulence and tuning out waves.
 
 #### 2021
 
